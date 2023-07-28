@@ -6,8 +6,8 @@
   
 ----
   
-- 🔭 I’m currently working at [Collective Health](https://collectivehealth.com/) as a Backend Developer. Using the following frameworks on a microsservice architecture: Spring Boot, PostgreSQL, Java 8/11, RabbitMQ
-- 🌱 I’m currently learning some frontend stacks (such as React, Node.js) and also learning Android
+- 🔭 I’m currently working at [Grupo Boticario](https://www.grupoboticario.com.br/) as a Backend Developer. Using the different frameworks an languages based on the microsservice, some that I used the most are: Java 14+ / Groovy / Kotlin, MongoDB / DynamoDb / Postgres, NodeJS
+- 🌱 I’m currently doing some AWS courses to be certified
 - 💬 Ask me about Scrum, Agile, SpringBoot or any Java related thing. 
 - 📫 How to reach me: rodrigopimenta2@gmail.com
 
